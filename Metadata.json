@@ -1,0 +1,20 @@
+{
+    "Author": "ManashM",
+    "ContentSize": 8035,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/clean-azure-vm-deletion/master/Remove-ServerAndAllObject.ps1",
+    "DownloadCount": 717,
+    "Id": "Clean-Azure-VM-Deletion-d2977202",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 481,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-5-31T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Normally using default PS script the VM deletion is not a clean deletion as that not delete many resources for example O/S disk, data disk & NIC card. This script provide an way to do a clean deletion.Example1\u00a0If the need is to delete multiple VM,\u00a0Log,\u00a0VERBOSE: Removing VM",
+    "Title": "Clean Azure VM Deletion",
+    "UpdatedDate": "2017-5-31T00:00:00",
+    "Url": "https://github.com/azureautomation/clean-azure-vm-deletion",
+    "UserTags": "Clean Azure Rm VM Deletion, Delete Azure Rm VM with Disks"
+}
